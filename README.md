@@ -1,4 +1,8 @@
-### Hi there 👋
+## Servus 👋
+### I'm a computer science student @ [TUM](https://www.tum.de) 🎓
+
+- [LinkedIn](https://www.linkedin.com/in/joshua-pusch/)
+- [DevPost](https://devpost.com/joshuapusch)
 
 <!--
 **ThePuscher/ThePuscher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
