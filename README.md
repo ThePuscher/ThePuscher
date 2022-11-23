@@ -3,6 +3,9 @@
 
 - [LinkedIn](https://www.linkedin.com/in/joshua-pusch/)
 - [DevPost](https://devpost.com/joshuapusch)
+  - hackaTUM 2022 winner of Hubert Burda Media challenge
+  - hackaTUM 2021 winner of SAP challenge
+  - hackaTUM 2019 winner of fortiss challenge
 
 ### Check out my web-based campus app for TUM students: [TUM.one](https://tum.one)
 
